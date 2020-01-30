@@ -1,1 +1,1 @@
-# Pages for DevOps.MD
+# pages
